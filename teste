@@ -1,3 +1,28 @@
 Primeiro passo no git
 Segundo Passo Alterando arquivos 
 
+# Comandos no Git 
+
+1 
+pasta ou aquivo control + mouse direito  abrir em git bash
+ls listar arquivos 
+
+2 git init  para iniciar o controle de versao 
+
+3 git add -A (para Adicionar a pasta)
+
+4 git status (para ver se o arquivo foi adicionado)
+
+5 git commit -m "descrever o que foi feito"
+
+6 git status para ver se foi adicionado o commit 
+
+7 entrar no github  adicionar em New e em repository Name colocar o nome do projeto,
+copiar o url e voltar ao git bash e com o comando git remote add origin (shift + insert no teclado para colar a 
+
+8 git push origin master (Para subir o arquivo ao github)
+
+
+
+
+
